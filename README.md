@@ -1,4 +1,4 @@
-# DCIT-104-assignment-2
+# DCIT-104-assignment-2 STUDENT ID-10980326
 Calculating the sum of Prime numbers within a range 
 
 // this is a c++ code that check and calculate the sume of prime numbers within a range 
